@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1617730648 source:c:\users\toculus\documents\codeblocks projects\ieu3d\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	"IEU3D.h"
+
+1617730536 c:\users\toculus\documents\codeblocks projects\ieu3d\ieu3d.h
+
